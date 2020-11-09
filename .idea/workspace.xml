@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="173e6c50-e703-4d33-9c93-b6602383093f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="galaxis" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1jPRQT8Qu4Pifv5x3EM93lyc8pV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="173e6c50-e703-4d33-9c93-b6602383093f" name="Default Changelist" comment="" />
+      <created>1603703723856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603703723856</updated>
+      <workItem from="1603703724882" duration="7227000" />
+      <workItem from="1603792967665" duration="2525000" />
+      <workItem from="1603861496566" duration="3954000" />
+      <workItem from="1603868805281" duration="782000" />
+      <workItem from="1604073852045" duration="1256000" />
+      <workItem from="1604088595446" duration="246000" />
+      <workItem from="1604157017754" duration="70000" />
+      <workItem from="1604745322177" duration="3174000" />
+      <workItem from="1604930444623" duration="5898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="694" y="355" width="593" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603703733134">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="694" y="355" width="593" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1603703733134" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604157085571">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1604157085571" />
+  </component>
+</project>
